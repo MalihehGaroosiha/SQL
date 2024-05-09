@@ -1,4 +1,4 @@
 #
 This is an SQL project.\
-In this project, I have used reverse engineering to load the script of a database into SQL envinonment to create the database structure. After creating the ER diagram, I exported the database to SQL format to export(sample of data migration).\
-In Step 2, I attempted to retrieve tables based on stakeholder questions. The relational database contains 5 tables.  
+As part of a class project, I led the migration of departmental databases from local servers to a computational cloud platform, focusing on data security and accessibility.\
+Additionally, the project involved creating Entity-Relationship (ER) diagrams to visualize database structures and executing advanced SQL queries for data retrieval and analysis.
